@@ -1,0 +1,5 @@
+(CC)g++(CC)
+(flags)-o sch(flags)
+
+<build>$CC$ $flags$ main.cpp;echo Done!<build>
+<clean>rm sch<clean>
