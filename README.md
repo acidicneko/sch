@@ -11,6 +11,8 @@ Just define your commands in a codefile(situated in the same directory in which 
 Just type-
 
 $ sch "yourFunctionName"
+
+
 Replace "yourFunctionName" with the actual function name defined within codefile(and yeah without quotes!).
 The syntax style for codefile is given in the next section!
 
