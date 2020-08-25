@@ -22,7 +22,7 @@ If not then its not that much hard!
 Suppose this codefile-
 
 
-<fun>echo sch is great!;<fun>
+\<fun>echo sch is great!;\<fun>
   
   
 If this is saved to the codefile, sch will read it and extract function name, i.e fun, and the command for this function, i.e echo sch is great.
@@ -40,7 +40,7 @@ To define variables add in codefile-
 Now to use this in a fucntion-
 
 
-"<fun>$var$ sch is great!;<fun>"
+\<fun>$var$ sch is great!;\<fun>
   
 It will replace $var$ with "echo" and execute same as above.
 
@@ -56,10 +56,10 @@ To use variables write its name and surround it with '$' sign.
 (cleaner)rm -rf(cleaner)
 
 
-<build>$CC$ $flags$ main.cpp;echo Done!;<build>
+\<build>$CC$ $flags$ main.cpp;echo Done!;\<build>
   
   
-<clean>$cleaner$ bin/;<clean>
+\<clean>$cleaner$ bin/;\<clean>
   
   
 And yeah that's it! You may think it as "make" program but very minimal and simple!
