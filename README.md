@@ -27,7 +27,9 @@ Suppose this codefile-
   
 If this is saved to the codefile, sch will read it and extract function name, i.e fun, and the command for this function, i.e echo sch is great.
 If you will type in terminal-
+
 $ sch fun
+
 It will push "echo sch is great!" to the shell, and we all know what echo does!
 Each and every command inside a function should end with ";".
 You can define as many functions you want!
