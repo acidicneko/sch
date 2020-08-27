@@ -50,7 +50,7 @@ It will replace $var$ with "echo" and execute same as above.
 Each variable name should be in () brackets and after defining variable, line should end with same name inside ().
 To use variables write its name and surround it with '$' sign.
 
-# Example codefile used in compiling sch 2.0 itself
+# Example codefile used in compiling sch 2.0-stable itself
 (CC)g++(CC)
 
 (flags)-o bin/sch(flags)
