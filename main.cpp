@@ -232,7 +232,7 @@ int main(int argc, char **argv){
 	}
     file.open("codefile");
 	if(ver == "--version"){
-        cout << "Simple Command Helper\nBuilt by Ayush Yadav\nsch 2.0 (formerly slch)\n";
+        cout << "Simple Command Helper\nBuilt by Ayush Yadav\nsch 1.0 (formerly slch)\n";
     }
     else if(!file){
         cout << "no codefile found\nerror:1\n";
