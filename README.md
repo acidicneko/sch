@@ -64,10 +64,10 @@ Now if you want to call \<bar> from \<foo>, just do as-
 
 \<foo>echo sch is great;%bar%;\<foo>
 
-It will call <bar>!
+It will call \<bar>!
 
 **4.Escaping some reserved characters**
-If you command contains '$' or '%' then you can make sch skip reading them as identifiers by putting a '\' before them!
+If you command contains '$' or '%' then you can make sch skip reading them as identifiers by putting a '\\' before them!
 
 # Example codefile used in compiling sch 2.0-stable itself
 (CC)g++(CC)
