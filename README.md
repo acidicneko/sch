@@ -60,7 +60,7 @@ Now if foo and bar are defined as-
 
 \<bar>touch lib.h;\<bar>
 
-Now if you want to call <bar> from <foo>, just do as-
+Now if you want to call \<bar> from \<foo>, just do as-
 
 \<foo>echo sch is great;%bar%;\<foo>
 
