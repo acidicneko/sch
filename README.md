@@ -38,15 +38,15 @@ To define variables add in codefile-
 
 **2.Defining Variables**
 
-(var)echo(var)
+(fucn)echo(func)
 
 
 Now to use this in a fucntion-
 
 
-\<fun>$var$ sch is great!;\<fun>
+\<fun>$func$ sch is great!;\<fun>
   
-It will replace $var$ with "echo" and execute same as above.
+It will replace $func$ with "echo" and execute same as above.
 
 
 Each variable name should be in () brackets and after defining variable, line should end with same name inside ().
@@ -68,7 +68,8 @@ It will call \<bar>!
 
 **4.Escaping some reserved characters**
 If you command contains '$' or '%' then you can make sch skip reading them as identifiers by putting a '\\' before them!
-As-
+
+Like here-
 
 \<fun>echo \\$1;\<fun>
 
