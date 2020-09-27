@@ -38,7 +38,7 @@ To define variables add in codefile-
 
 **2.Defining Variables**
 
-(fucn)echo(func)
+(func)echo(func)
 
 
 Now to use this in a fucntion-
