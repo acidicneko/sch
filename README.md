@@ -21,7 +21,7 @@ Have you ever written HTML? If yes, then it is going to be familiar!
 If not then its not that much hard!
 Suppose this codefile-
 
-**1.Defining functions**
+### 1.Defining functions
 
 > \<fun>echo sch is great!;\<fun>
   
@@ -44,7 +44,7 @@ In codefile -
 
 It will try to execute <main> function if it was defined in codefile.
 
-**2.Defining Variables**
+### 2.Defining Variables
 
 > (func)echo(func)
 
@@ -60,7 +60,7 @@ It will replace $func$ with "echo" and execute same as above.
 Each variable name should be in () brackets and after defining variable, line should end with same name inside ().
 To use variables write its name and surround it with '$' sign.
 
-**3.Calling other function from a function**
+### 3.Calling other function from a function
 Suppose we have these functions- foo and bar.
 Now if foo and bar are defined as-
 
@@ -74,7 +74,7 @@ Now if you want to call \<bar> from \<foo>, just do as-
 
 It will call \<bar>!
 
-**4.Escaping some reserved characters**
+### 4.Escaping some reserved characters
 If you command contains '$' or '%' then you can make sch skip reading them as identifiers by putting a '\\' before them!
 
 Like here-
