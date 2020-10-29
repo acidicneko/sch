@@ -36,6 +36,14 @@ Each and every command inside a function should end with ";".
 You can define as many functions you want!
 To define variables add in codefile-
 
+By deafult if you don't provide any argument to sch, it will try to run commands defined within <main> function.
+```
+sch
+```
+In codefile -
+> \<main>gcc -o test main.c;\<main>
+It will try to execute <main> function if it was defined in codefile.
+
 **2.Defining Variables**
 
 > (func)echo(func)
