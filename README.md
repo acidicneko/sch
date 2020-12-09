@@ -1,4 +1,6 @@
 [![Made in Emacs](https://img.shields.io/badge/Made%20in-emacs-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Version-2.1-lime.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Maintained-yes-yellow.svg)](https://shields.io/)
 
 # Simple Command Helper
 Simple Command helper for not to write out multiple commands "every time"
