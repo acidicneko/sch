@@ -1,4 +1,4 @@
-[![Made in Emacs](https://img.shields.io/badge/Made In-emacs-blue.svg)](https://shields.io/)
+[![Made in Emacs](https://img.shields.io/badge/"Made In"-emacs-blue.svg)](https://shields.io/)
 
 # Simple Command Helper
 Simple Command helper for not to write out multiple commands "every time"
